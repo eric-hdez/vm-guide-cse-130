@@ -29,10 +29,10 @@ Useful packages for this class:
 * clang-format
 * git
 * valgrind
-* gdb
+* lldb
 
 You may install all of these using the follwing command:\
-`sudo apt install build-essentials clang gcc make clang-format git valgrind gdb`\
+`sudo apt install build-essentials clang gcc make clang-format git valgrind lldb`\
 You may also benefit from installing VirtualBox guest additions:\
 `sudo apt install virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms`\
 You will need to restart your machine right after this, per the installation instructions.
