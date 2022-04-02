@@ -29,7 +29,8 @@ Useful packages for this class:
 * clang-format
 * git
 * valgrind
-* gdb\
+* gdb
+
 You may install all of these using the follwing command:\
 `sudo apt install build-essentials clang gcc make clang-format git valgrind gdb`\
 You may also benefit from installing VirtualBox guest additions:\
