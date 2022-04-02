@@ -18,7 +18,7 @@ This guide will use VirtualBox. I am very sorry M1 users :( this is not a guide 
 2. Once it's ready, click '**Install Ubuntu'**. Then, select your keyboard layout.
 3. On the next screen, you can select '**Normal Installation'** or '**Minimal Installation'**. I recommend the minimal installation, as it takes up less space. Once you have selected, click the '**Continue'** button.
 4. The next screen will ask you whether you would like to '**Erase disk and install Ubuntu'** or do '**Something else'**. Select '**Erase disk and install Ubuntu'**. Do not fret, this will only affect the virtual hard disk. Next, select '**Install Now'**. A pop up will show up, press '**Continue'**.
-5. On the next screen, select your timezone, and then setupt your user account. Press '**Continue'**, and wait for the installation to finish. When it's done, click '**Restart'**.
+5. On the next screen, select your timezone, and then setupt your user account. Press '**Continue'**, and wait for the installation to finish. When it's done, click '**Restart'**. Follow the instructions from there.
 
 ## Packages
 Useful packages for this class:
@@ -29,7 +29,7 @@ Useful packages for this class:
 * clang-format
 * git
 * valgrind
-* gdb
+* gdb\
 You may install all of these using the follwing command:\
 `sudo apt install build-essentials clang gcc make clang-format git valgrind gdb`\
 You may also benefit from installing VirtualBox guest additions:\
